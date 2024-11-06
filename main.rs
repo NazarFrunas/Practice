@@ -1,5 +1,4 @@
-
-mod prac7;
+mod r#Prac;
 
 fn main() {
     println!("Hello, world!");
