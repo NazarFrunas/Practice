@@ -1,4 +1,4 @@
-mod prac11;
+mod Vecror;
 
 fn main() {
     println!("Hello, world!");
